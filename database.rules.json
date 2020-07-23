@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "hod": {
+      ".read": "auth.token.role === 'hod'",
+      ".write": "auth.token.role === 'hod'",
+    },
+       "user": {
+      ".read": "auth.token.role === 'user'",
+      ".write": "auth.token.role === 'user'",
+    }
+  }
+}
