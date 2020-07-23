@@ -1,6 +1,7 @@
 # GJAM-portfolio
 
 The official portfolio web-app of [GJAM] made with Vue+Vuetify framework.
+Live preview at https://gjam.in 
 
 <img src="https://raw.githubusercontent.com/japangor/portfolio/master/res/s1.png"  width="auto">
 
