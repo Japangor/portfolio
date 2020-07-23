@@ -2,13 +2,13 @@
 
 The official portfolio web-app of [GJAM] made with Vue+Vuetify framework.
 
-<img src="https://raw.githubusercontent.com/japangor/portfolio/master/res/s1.png"  width="auto">
+<img src="https://raw.githubusercontent.com/Japangor/portfolio/master/res/s1.png"  width="auto">
 
-<img src="https://raw.githubusercontent.com/japangor/portfolio/master/res/s2.png"  width="auto">
+<img src="https://raw.githubusercontent.com/Japangor/portfolio/master/res/s2.png"  width="auto">
 
-<img src="https://raw.githubusercontent.com/japangor/portfolio/master/res/s3.png"  width="auto">
+<img src="https://raw.githubusercontent.com/Japangor/portfolio/master/res/s3.png"  width="auto">
 
-<img src="https://raw.githubusercontent.com/japangor/portfolio/master/res/s4.png"  width="auto">
+<img src="https://raw.githubusercontent.com/Japangor/portfolio/master/res/s4.png"  width="auto">
 
 ## Extra(s)
 
